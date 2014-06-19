@@ -92,7 +92,7 @@ main (int argc, char *argv[])
 
   else if (i == -2)
     {
-      fprintf (stderr, "<Primary key> is limited to <%d> charecter nymbers\n",
+      fprintf (stderr, "<Primary key> is limited to <%d> charecter numbers\n",
 	       CHARSIZE - 1);
       return 1;
     }

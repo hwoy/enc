@@ -3,3 +3,10 @@ end/denc are reversable encode and decode softwares
 Required library
 
 1.grap
+
+How to make
+1. git clone https://github.com/hwoy/enc.git
+2. cd enc
+3. make require
+4. make
+

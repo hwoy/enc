@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "grap.h"
+#include "grap/grap.h"
 #include "enc.h"
 #define PASSIZE 1024+1+1
 #define PSIZE 1024
